@@ -1,0 +1,51 @@
+.c {
+	background-color:yellow;
+  width: 300px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: border-box;
+  box-shadow:3px 2px 5px 10px;
+}
+
+
+.dotted {outline-style: dotted;}
+.dashed {outline-style: dashed;}
+.solid {outline-style: solid;}
+.double {outline-style: double;}
+.groove {outline-style: groove;}
+.ridge {outline-style: ridge;}
+.inset {outline-style: inset;}
+.outset {outline-style: outset;}
+
+.a{
+	
+	cursor: pointer;
+	width:75px;
+	height:5%;
+	background-color:gray;
+	padding:16px;
+	box-sizing:border-box;
+	border-radius: 15px 15px 30px 20px;
+}
+
+.positive{
+	width:auto;
+	height:50px;
+	padding:50px;
+	color:green;
+	border:1px solid red;
+	box-sizing:border-box;
+	box-shadow: 3px 4px;
+		text-align:center;
+		  box-shadow:3px 2px 5px 10px;
+
+}
+.negative{
+	width:auto;
+	height:50px;
+	padding:50px;
+	border:1px solid red;
+	box-sizing:border-box;
+	box-shadow: -3px -4px;
+	}
